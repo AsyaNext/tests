@@ -1,0 +1,8 @@
+#pot {
+    cursor: pointer;
+    transition: all, 1s;
+}
+
+#pot:hover{
+    transform: translateX(30px);
+}
